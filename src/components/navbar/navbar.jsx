@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import NavLogo from "../../assets/nav.png";
 import "./navbar.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars, faBarsStaggered } from "@fortawesome/free-solid-svg-icons";
@@ -33,7 +32,6 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="container">
         <div className="logo">
-          <img src={NavLogo} alt="Logo" />
         </div>
 
         <div className="menu-icon" onClick={handleShowNavbar}>
