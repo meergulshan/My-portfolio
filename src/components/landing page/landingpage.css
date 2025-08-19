@@ -15,7 +15,6 @@
   color: #ee7f19;
   background-image: radial-gradient(#ee7f19 1.5px, transparent 1.5px);
   background-size: 18px 18px;
-
 }
 
 .landingpage .container .glass {
@@ -69,7 +68,6 @@
   color: #ffffff;
   content: "Gulshan Ahmad is a";
   width: max-content;
-
 }
 
 .landingpage .container .glass .contentprofile {
@@ -81,7 +79,6 @@
   /* border: 6px solid #ffffff; */
   /* overflow: hidden; */
 }
-
 
 /* .landingpage .container .glass .contentprofile::before {
   content: '';
@@ -98,17 +95,13 @@
 } */
 
 @keyframes animate {
-  0%{
+  0% {
     transform: rotate(0deg);
   }
-  0%{
+  0% {
     transform: rotate(360deg);
-
   }
 }
-
-
-
 
 .landingpage .container .glass .contentprofile .profile {
   height: 70dvh;
@@ -118,7 +111,6 @@
   /* filter: grayscale(0%); */
   /* transition: 0.5s ease; */
   /* cursor: pointer; */
-
 }
 
 /* .landingpage .container .glass .contentprofile .profile:hover {
@@ -127,24 +119,11 @@
   transform: scale(1.1);
 } */
 
-
-
-
-
-
-
-
-
-
-
-
-
 @media (max-width: 600px) {
   .landingpage {
     background-image: linear-gradient(-60deg, #b81e1e 50%);
     justify-content: center;
   }
-
 
   .landingpage .container .glass {
     background: rgba(255, 255, 255, 0.1);
@@ -152,7 +131,6 @@
     backdrop-filter: blur(5px);
     border: 5px solid rgba(255, 255, 255, 0.15);
     border-radius: 60px;
-
   }
 
   .landingpage .container {
@@ -173,7 +151,6 @@
     align-items: center;
   }
 
-
   .landingpage .container .glass .content {
     /* min-height: 25dvh; */
     font-size: 18px;
@@ -187,7 +164,6 @@
     content: "Gulshan Ahmad is ";
     color: #ffffff;
   }
-
 
   .landingpage .container .glass .containerButton {
     padding-left: 0px;
@@ -204,8 +180,6 @@
     width: max-content;
     border-radius: 20px;
   }
-
-
 
   .landingpage .container .glass .contentprofile {
     /* margin-top: 20%; */

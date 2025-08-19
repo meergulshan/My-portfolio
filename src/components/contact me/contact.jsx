@@ -53,8 +53,8 @@ const Contact = () => {
                   src={mailLogo}
                   alt="LinkedIn"
                 />
-                <a href="mailto:sahiloutlook1962@gmail.com">
-                  sahiloutlook1962@gmail.com
+                <a href="mailto:gulshanahmad68@gmail.com">
+                  gulshanahmad@gmail.com
                 </a>
               </div>
               <div>
@@ -64,11 +64,11 @@ const Contact = () => {
                   alt="LinkedIn"
                 />
                 <a
-                  href="https://github.com/sahil1962"
+                  href="https://github.com/meergulshan"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  sahil1962
+                  Meer Gulshan
                 </a>
               </div>
               <div>
@@ -78,11 +78,11 @@ const Contact = () => {
                   alt="LinkedIn"
                 />
                 <a
-                  href="https://www.linkedin.com/in/sahil-parkash-40b464185/"
+                  href="https://www.linkedin.com/in/gulshan-ahmad-472762262/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  sahil-parkash-40b464185/
+                  Gulshan Ahmad-472762262
                 </a>
               </div>
             </div>
@@ -98,7 +98,7 @@ const Contact = () => {
             </div>
             <div className="SocialMedia">
             <a
-                href="mailto:sahiloutlook1962@gmail.com"
+                href="mailto:gulshanahmad68@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -109,7 +109,7 @@ const Contact = () => {
                 />
               </a>
               <a
-                href="https://github.com/sahil1962"
+                href="https://github.com/meergulshan"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -120,7 +120,7 @@ const Contact = () => {
                 />
               </a>
               <a
-                href="https://www.linkedin.com/in/sahil-parkash-40b464185/"
+                href="https://www.linkedin.com/in/gulshan-ahmad-472762262/"
                 target="_blank"
                 rel="noopener noreferrer"
               >

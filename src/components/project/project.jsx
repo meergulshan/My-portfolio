@@ -18,12 +18,12 @@ const Project = () => {
               <img className="ProjectImage" src={ComplySimplify} alt="Logo" />
             </div>
             <div className="Technology">
-              <p>React, NodeJS, Express, Bootstrap, Firebase, Python</p>
+              <p>ReactJS, NodeJS, Express, Bootstrap, MongoDB, Python</p>
             </div>
             <div className="Details">
-              <h3>ComplySimplify </h3>
+              <h3>Mute and Deaf Communication </h3>
               <a
-                href="https://github.com/sahil1962/ComplySimplify"
+                href="https://github.com/meergulshan/Face-Recognization-System"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -36,12 +36,12 @@ const Project = () => {
               <img className="ProjectImage" src={OyeeCar} alt="Logo" />
             </div>
             <div className="Technology">
-              <p>React, NodeJS, Express, Bootstrap, MongoDB, CSS</p>
+              <p> HTMl, CSS, Bootstrap</p>
             </div>
             <div className="Details">
-              <h3>Oyee Car Automobile</h3>
+              <h3>FoodFront</h3>
               <a
-                href="https://github.com/sahil1962/OyeeCarAutomobile"
+                href="https://gulshan-foodfront.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -54,12 +54,12 @@ const Project = () => {
               <img className="ProjectImage" src={EMS} alt="Logo" />
             </div>
             <div className="Technology">
-              <p>Java, JavaFX, File Handling</p>
+              <p>ReactJs, NodeJS ,Express , MongoDB</p>
             </div>
             <div className="Details">
-              <h3>Energy Management System</h3>
+              <h3>Note taking App</h3>
               <a
-                href="https://github.com/sahil1962/EnergyManagementSystem"
+                href="https://github.com/meergulshan/gulshan-mern-10pshine"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -69,7 +69,7 @@ const Project = () => {
           </div>
           <a
             className="ViewAll"
-            href="https://github.com/sahil1962?tab=repositories"
+            href="https://github.com/meergulshan?tab=repositories"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -152,7 +152,8 @@ a {
     .Contact .background .ParentDiv .ContactDiv .Content {
         padding-left: 5%;
         padding-right: 5%;
-        font-size: larger;
+        font-size: smaller;
+        margin-top: 150px;
 
     }
 
