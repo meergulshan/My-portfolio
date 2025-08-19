@@ -1,7 +1,7 @@
 import "./project.css";
 import ComplySimplify from "../../assets/Projects/ComplySimplify.png";
+import OyeeCar from "../../assets/Projects/OyeeCar.png";
 import EMS from "../../assets/Projects/EMS.png";
-import foodfront from "../../assets/Projects/foodfront.png"
 
 const Project = () => {
   return (
@@ -15,15 +15,15 @@ const Project = () => {
         <div className="ParentDiv">
           <div className="ChildDivs">
             <div className="Photo">
-              <img className="ProjectImage" src={foodfront} alt="Logo" />
+              <img className="ProjectImage" src={ComplySimplify} alt="Logo" />
             </div>
             <div className="Technology">
-              <p>html ,css,bootstrap,javascript</p>
+              <p>React, NodeJS, Express, Bootstrap, Firebase, Python</p>
             </div>
             <div className="Details">
-              <h3>FOODFRONT </h3>
+              <h3>ComplySimplify </h3>
               <a
-                href="https://gulshan-foodfront.vercel.app/"
+                href="https://github.com/sahil1962/ComplySimplify"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -33,15 +33,15 @@ const Project = () => {
           </div>
           <div className="ChildDivs">
             <div className="Photo">
-              <img className="ProjectImage" src={ComplySimplify} alt="Logo" />
+              <img className="ProjectImage" src={OyeeCar} alt="Logo" />
             </div>
             <div className="Technology">
-              <p>ReactJS, NodeJS, Express, Bootstrap, MongoDB, CSS ,python</p>
+              <p>React, NodeJS, Express, Bootstrap, MongoDB, CSS</p>
             </div>
             <div className="Details">
-              <h3>Deaf and Mute communication </h3>
+              <h3>Oyee Car Automobile</h3>
               <a
-                href="https://github.com/meergulshan/Face-Recognization-System"
+                href="https://github.com/sahil1962/OyeeCarAutomobile"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -59,7 +59,7 @@ const Project = () => {
             <div className="Details">
               <h3>Energy Management System</h3>
               <a
-                href=".."
+                href="https://github.com/sahil1962/EnergyManagementSystem"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -69,7 +69,7 @@ const Project = () => {
           </div>
           <a
             className="ViewAll"
-            href="https://github.com/meergulshan?tab=repositories"
+            href="https://github.com/sahil1962?tab=repositories"
             target="_blank"
             rel="noopener noreferrer"
           >

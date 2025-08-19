@@ -53,8 +53,8 @@ const Contact = () => {
                   src={mailLogo}
                   alt="LinkedIn"
                 />
-                <a href="mailto:gulshanahmad68@gmail.com">
-                  gulshanahmad68@gmail.com
+                <a href="mailto:sahiloutlook1962@gmail.com">
+                  sahiloutlook1962@gmail.com
                 </a>
               </div>
               <div>
@@ -64,11 +64,11 @@ const Contact = () => {
                   alt="LinkedIn"
                 />
                 <a
-                  href="https://github.com/meergulshan"
+                  href="https://github.com/sahil1962"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  meergulshan
+                  sahil1962
                 </a>
               </div>
               <div>
@@ -78,11 +78,11 @@ const Contact = () => {
                   alt="LinkedIn"
                 />
                 <a
-                  href="https://www.linkedin.com/in/gulshan-ahmad-472762262/"
+                  href="https://www.linkedin.com/in/sahil-parkash-40b464185/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                   gulshan-ahmad-472762262/
+                  sahil-parkash-40b464185/
                 </a>
               </div>
             </div>
@@ -98,7 +98,7 @@ const Contact = () => {
             </div>
             <div className="SocialMedia">
             <a
-                href="mailto:gulshanahmad68@gmail.com"
+                href="mailto:sahiloutlook1962@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -109,7 +109,7 @@ const Contact = () => {
                 />
               </a>
               <a
-                href="https://github.com/meergulshan"
+                href="https://github.com/sahil1962"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -120,7 +120,7 @@ const Contact = () => {
                 />
               </a>
               <a
-                href="https://www.linkedin.com/in/gulshan-ahmad-472762262/"
+                href="https://www.linkedin.com/in/sahil-parkash-40b464185/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -132,7 +132,7 @@ const Contact = () => {
               </a>
             </div>
             <div className="Rights">
-              @2025 Gulshan Ahmad All Rights Reserved.
+              @2023 Sahil Parkash All Rights Reserved.
             </div>
           </div>
         </div>

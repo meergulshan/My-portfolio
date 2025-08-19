@@ -2,7 +2,7 @@
 // "react-gsap": "^3.2.1",
 
 import "./landingpage.css";
-import Profile from "../../assets/main_profile.png";
+import Profile from "../../assets/Profile.png";
 import Typed from "react-typed";
 const LandingPage = () => {
 
@@ -15,18 +15,17 @@ const LandingPage = () => {
             <br />
             <Typed
               strings={[
-                "MernStack Developer ",
                 "Web designer",
                 "Front-end Developer",
                 "Software Developer",
               ]}
-              typeSpeed={30}
+              typeSpeed={40}
               backSpeed={50}
               loop
             />
             <div className="containerButton">
               <div className="ButtonCV" >
-              <a href="https://drive.google.com/drive/my-drive?q=type:pdf%20parent:0ADSXHt0ia-OfUk9PVA" target="_blank"
+              <a href="https://drive.google.com/file/d/1i4FjO1ogikObBFkJnwDBU6018-M5O4wS/view?usp=sharing" target="_blank"
                 rel="noopener noreferrer" className="ButtonCV">
                 Download CV
               </a>
