@@ -67,7 +67,7 @@
 
 .landingpage .container .glass .content::before {
   color: #ffffff;
-  content: "Sahil Parkash is a";
+  content: "Gulshan Ahmad is a";
   width: max-content;
 
 }
@@ -184,7 +184,7 @@
   }
 
   .landingpage .container .glass .content::before {
-    content: "Sahil Parkash is ";
+    content: "Gulshan Ahmad is ";
     color: #ffffff;
   }
 

@@ -10,7 +10,7 @@ const About = () => {
         </div>
         <div className="contentDiv">
           <div className="aboutContent">
-            I'm <span className="CreatorName">Sahil Parkash</span>,a passionate
+            I'm <span className="CreatorName">Gulshan Ahmad</span>, a passionate
             and experienced UI/UX designer and front-end developer. I specialize
             in creating visually stunning and intuitive user interfaces that
             enhance user experiences and drive results. With a keen eye for

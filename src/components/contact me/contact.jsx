@@ -132,7 +132,7 @@ const Contact = () => {
               </a>
             </div>
             <div className="Rights">
-              @2023 Sahil Parkash All Rights Reserved.
+              @2025 Gulshan Ahmad All Rights Reserved.
             </div>
           </div>
         </div>
